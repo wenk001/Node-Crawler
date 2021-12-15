@@ -1,0 +1,23 @@
+{
+  "name": "node-crawler",
+  "version": "1.0.0",
+  "description": "node爬虫实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenk001/Node-Crawler.git"
+  },
+  "author": "wk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenk001/Node-Crawler/issues"
+  },
+  "homepage": "https://github.com/wenk001/Node-Crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
